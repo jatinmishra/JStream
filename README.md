@@ -1,7 +1,3 @@
-### 📄 **README.md for Video Streaming App (SwiftUI + AVPlayer)**
-
----
-
 # 🎬 JStream
 
 A modular **SwiftUI** application showcasing a **VOD (Video On Demand)** streaming platform built with **AVPlayer**. The app leverages best practices for video playback.
