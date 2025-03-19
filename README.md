@@ -21,10 +21,11 @@ A modular **SwiftUI** application showcasing a **VOD (Video On Demand)** streami
 
 ---
 
-## 📺 **Demo Screenshots**
-| **Video List View** | **Video Player (Fullscreen)** | **Theme Switcher** |
-|:-------------------:|:----------------------------:|:-------------------:|
-| ![Video List](https://via.placeholder.com/300) | ![Player View](https://via.placeholder.com/300) | ![Theme Switcher](https://via.placeholder.com/300) |
+## 📺 **Demo Video**
+
+
+https://github.com/user-attachments/assets/27dad949-a8a8-43df-91bb-88b930f9b775
+
 
 
 ## 🎯 **Test HLS URLs**
