@@ -16,7 +16,7 @@ class MuxAnalyticsService: AnalyticsService {
     func startTracking(player: AVPlayer, videoTitle: String) {
         let customerData = MUXSDKCustomerData()
         let playerData = MUXSDKCustomerPlayerData()
-        playerData.environmentKey = "1i7l88ifo8of71kp8cqa25gj8"
+        playerData.environmentKey = "key"
         
         let videoData = MUXSDKCustomerVideoData()
         videoData.videoTitle = videoTitle
